@@ -16,6 +16,7 @@ public class Test {
 			logger.error(e.getMessage());
 		}
 		System.out.println("½áÊø");
+		System.out.println("·ÖÖ§test");
 	}
 	
 
